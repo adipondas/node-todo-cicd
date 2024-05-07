@@ -4,7 +4,7 @@
   "main": "app.js",
   "scripts": {
     "start": "node app.js",
-    "test": "mocha --recursive --exit",
+    "test": "mocha --exit",
     "sonar": "sonar-scanner"
   },
   "author": "riaan@entersekt.com",
