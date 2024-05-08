@@ -4,8 +4,6 @@
   "main": "app.js",
   "scripts": {
     "start": "node app.js",
-    "test": "mocha --exit",
-    "sonar": "sonar-scanner"
   },
   "author": "riaan@entersekt.com",
   "description": "Basic to do list exercise",
